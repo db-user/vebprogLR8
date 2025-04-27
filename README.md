@@ -173,6 +173,7 @@ auto-parts-api/
     "password": "password123",
     "email": "user1@example.com"
 }
+```
 
 Для входу (отримання JWT токену) слід виконати POST запит на /api/auth/login з тілами:
 
