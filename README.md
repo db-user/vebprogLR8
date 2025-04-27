@@ -167,7 +167,6 @@ auto-parts-api/
 ## Використання
 
 Для реєстрації нового користувача на сервері потрібно виконати POST запит на `/api/auth/register` з тілами:
-
 ```json
 {
     "username": "user1",
@@ -181,7 +180,6 @@ auto-parts-api/
     "username": "user1",
     "password": "password123"
 }
-
 
 ## Ліцензія
 Цей проект ліцензується під ліцензією MIT
